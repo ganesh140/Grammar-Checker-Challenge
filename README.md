@@ -1,4 +1,4 @@
-# Signavio.NEXT Challenge: Grammar Checker Backend
+# Challenge: Grammar Checker Backend
 
 This project is a backend for a grammar checker that uses the Google Gemini API to identify and correct errors in a given text. The backend is built with Python and FastAPI, and it uses FastAPI's built-in 'BackgroundTasks' for asynchronous processing of long-running tasks.
 
